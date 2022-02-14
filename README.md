@@ -1,1 +1,1 @@
-# JogoRPGOrienta-aoObjtetosDIOGFT
+# JogoRPGOrientacaoObjtetosDIOGFT
